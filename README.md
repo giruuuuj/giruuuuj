@@ -1,40 +1,6 @@
 # 💻 Hi, I'm Abhijeet Kale 
 ### Computer Science Student & Passionate Developer
 
-
-
-# 👋 Hello World! I'm Abhijeet Kale
-### **Backend Developer | Java Specialist | Problem Solver**
-
-🎯 **Mission:** Building robust systems that make learning accessible through technology  
-💡 **Philosophy:** *"Clean code solves problems, great code educates while solving"*
-
----
-
-## 🚀 **My Tech Universe**
-
-### 🔧 **Core Stack**
-```java
-public class MyTechStack {
-    // Backend Magic
-    String languages = "Java, Python, C/C++";
-    String frameworks = "Spring Boot, Hibernate";
-    String databases = "MySQL, MongoDB";
-    
-    // Dev Essentials
-    String tools = "Git, Docker, Linux, AWS";
-    String methodologies = "OOP, System Design, CI/CD";
-}
-
-graph LR
-    A[Advanced Java] --> B[Cloud Architecture]
-    B --> C[Distributed Systems]
-    C --> D[Kubernetes]
-
-
-
-
-
 🔭 **Currently Working On:**  
 - AI-powered educational games to make constitutional learning interactive  
 - Robust Java/MySQL backend systems for scalable applications  
@@ -86,3 +52,9 @@ I've completed all HackerRank challenges and love tackling new coding problems d
 ![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)
+
+
+graph LR
+    A[Advanced Java] --> B[Cloud Architecture]
+    B --> C[Distributed Systems]
+    C --> D[Kubernetes]
