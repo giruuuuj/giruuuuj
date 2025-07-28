@@ -1,60 +1,72 @@
-# 💻 Hi, I'm Abhijeet Kale 
-### Computer Science Student & Passionate Developer
+💻 Hi, I'm Abhijeet Kale
+Computer Science Student & Passionate Java Backend Developer
+🔭 Currently Working On:
 
-🔭 **Currently Working On:**  
-- AI-powered educational games to make constitutional learning interactive  
-- Robust Java/MySQL backend systems for scalable applications  
+🎮 AI-powered educational games making constitutional learning fun
 
-🌱 **Currently Learning:**  
-- Advanced Java backend development  
-- System design & software architecture best practices  
-- Competitive programming techniques  
+🧠 Scalable backend systems using Java, Spring Boot, and MySQL
 
-👯 **Looking to Collaborate On:**  
-- Full-stack projects (React/Node/Express)  
-- Java backend systems with MySQL  
-- Innovative educational technology tools  
+🌱 Currently Learning:
 
-💬 **Ask Me About:**  
-- Java/Spring Boot development  
-- Database design with MySQL  
-- Problem-solving strategies (HackerRank expert!)  
-- Combining game design with learning  
+🚀 Advanced Java backend & system design principles
 
-⚡ **Fun Fact:**  
-I've completed all HackerRank challenges and love tackling new coding problems daily!
+🏗️ Software architecture & distributed systems
 
----
+🧩 Competitive programming and DSA mastery
 
-### 🛠️ Tech Stack
-**Languages:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+👯 Looking to Collaborate On:
 
-**Web Development:**  
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+🔁 Full-stack apps (React, Node.js, Express)
 
-**Tools:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+🧱 Java backend microservices & REST APIs
 
----
+📚 Innovative EdTech tools and gamified learning platforms
 
-📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhijeet-kale-818747298)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijeetkale605@gmail.com)
+💬 Ask Me About:
 
----
+☕ Java, Spring Boot, REST APIs
 
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+🛢️ MySQL, schema design, data modeling
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)
+🧠 Problem-solving (HackerRank expert!)
+
+🎯 Game mechanics & learning UX
+
+⚡ Fun Fact:
+I’ve cleared all HackerRank domains and love daily coding challenges!
+
+🛠️ Tech Stack
+Languages
 
 
-graph LR
-    A[Advanced Java] --> B[Cloud Architecture]
-    B --> C[Distributed Systems]
-    C --> D[Kubernetes]
+
+
+
+Backend / Databases
+
+
+
+Tools & DevOps
+
+
+
+
+📊 GitHub Stats
+
+
+ℹ️ Replace yourusername with your actual GitHub username to enable stats.
+
+📈 Roadmap: Skills in Progress
+mermaid
+Copy
+Edit
+graph TD
+    A[Core Java] --> B[Spring Boot]
+    B --> C[Cloud Architecture]
+    C --> D[Distributed Systems]
+    D --> E[Kubernetes]
+    E --> F[DevOps & CI/CD]
+📫 Let's Connect
+
+
+
