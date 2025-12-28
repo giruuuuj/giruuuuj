@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet kale</h1>
 <h3 align="center">A passionate Java developer and full stack from India</h3>
 
-- 🔭 I’m currently working on **INVENTORY MANGEMENT**
 
-- 👯 I’m looking to collaborate on **OPERTION PRODUCT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
