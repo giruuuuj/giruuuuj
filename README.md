@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet kale</h1>
-<h3 align="center">A passionate Java developer and full stack from India</h3>
+<h3 align="center">India</h3>
 
 
 
